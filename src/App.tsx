@@ -63,7 +63,7 @@ function App() {
               name="text"
               type="textarea"
               as="textarea"
-              placeholder="Ведите текст сообщения"
+              placeholder="Введите текст сообщения"
             />
             <ErrorMessage name="text" />
 
